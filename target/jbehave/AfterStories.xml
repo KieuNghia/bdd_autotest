@@ -1,0 +1,6 @@
+<story path="AfterStories" title="">
+<step outcome="failed" keyword="FAILED">org.jbehave.web.selenium.PerStoriesWebDriverSteps.afterStories()<failure>org.jbehave.core.failures.BeforeOrAfterFailed: Method afterStories (annotated with @AfterStories in class org.jbehave.web.selenium.PerStoriesWebDriverSteps) failed: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: &apos;2.45.0&apos;, revision: &apos;5017cb8e7ca8e37638dc3091b2440b90a1d8686f&apos;, time: &apos;2015-02-27 09:10:26&apos;
+System info: host: &apos;EPUAKHAW0731&apos;, ip: &apos;10.23.12.90&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_40&apos;
+Driver info: driver.version: RemoteWebDriver</failure></step>
+</story>
